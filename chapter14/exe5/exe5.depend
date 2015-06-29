@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1434092388 source:d:\project\c++ primer plus exercise\chapter14\exe5\emp.cpp
+	"emp.h"
+	<string>
+	<iostream>
+
+1434092763 d:\project\c++ primer plus exercise\chapter14\exe5\emp.h
+	<iostream>
+	<string>
+
+1434092589 source:d:\project\c++ primer plus exercise\chapter14\exe5\main.cpp
+	<iostream>
+	"emp.h"
+

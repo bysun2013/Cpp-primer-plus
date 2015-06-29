@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1421121059 source:d:\project\c++ primer plus exercise\chapter16\exe2\main.cpp
+	<iostream>
+	<string>
+	<cctype>
+

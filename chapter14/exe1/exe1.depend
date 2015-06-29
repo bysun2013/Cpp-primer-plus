@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1433928081 source:d:\project\c++ primer plus exercise\chapter14\exe1\main.cpp
+	<iostream>
+	<valarray>
+	<utility>
+
